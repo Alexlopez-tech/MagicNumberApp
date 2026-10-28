@@ -1,0 +1,124 @@
+{
+  "riddles": [
+    {
+      "id": "easy-01",
+      "question": "¿Qué tiene manos pero no puede aplaudir?",
+      "options": ["Un reloj", "Una mesa", "Un río", "Una nube"],
+      "correctOptionIndex": 0,
+      "difficulty": "EASY",
+      "hint": "Tiene dos agujas que giran y marca las horas."
+    },
+    {
+      "id": "easy-02",
+      "question": "¿Qué se moja mientras más seca está?",
+      "options": ["La toalla", "La arena", "La vela", "La ropa"],
+      "correctOptionIndex": 0,
+      "difficulty": "EASY",
+      "hint": "Es de tela y se usa para secarte después del baño."
+    },
+    {
+      "id": "easy-03",
+      "question": "¿Cuántos meses tienen 28 días?",
+      "options": ["Uno", "Dos", "Todos", "Ninguno"],
+      "correctOptionIndex": 2,
+      "difficulty": "EASY",
+      "hint": "No pienses solo en febrero: todos los meses tienen al menos 28 días."
+    },
+    {
+      "id": "easy-04",
+      "question": "¿Qué sube y baja pero nunca se mueve del lugar?",
+      "options": ["La temperatura", "La escalera", "La marea", "El viento"],
+      "correctOptionIndex": 1,
+      "difficulty": "EASY",
+      "hint": "La usas para subir o bajar de piso, pero no se mueve del sitio."
+    },
+    {
+      "id": "easy-05",
+      "question": "¿Qué tiene dientes pero no muerde?",
+      "options": ["Un peine", "Un tenedor", "Una sierra", "Un cocodrilo"],
+      "correctOptionIndex": 0,
+      "difficulty": "EASY",
+      "hint": "Es un objeto con dientes que sirve para desenredar el cabello."
+    },
+    {
+      "id": "medium-01",
+      "question": "¿Qué es lo que cuanto más grande es, menos se ve?",
+      "options": ["La oscuridad", "La distancia", "El miedo", "La niebla"],
+      "correctOptionIndex": 0,
+      "difficulty": "MEDIUM",
+      "hint": "Aparece cuando apagas la luz y crece cuando no hay nada que ilumine."
+    },
+    {
+      "id": "medium-02",
+      "question": "¿Qué puedes romper sin tocarlo?",
+      "options": ["Un espejo", "Una promesa", "Un vaso", "Una ventana"],
+      "correctOptionIndex": 1,
+      "difficulty": "MEDIUM",
+      "hint": "No es un objeto físico: se rompe con palabras o acciones."
+    },
+    {
+      "id": "medium-03",
+      "question": "Tiene ciudades pero no casas, ríos pero no agua y bosques pero no árboles. ¿Qué es?",
+      "options": ["Un mapa", "Un sueño", "Un cuadro", "Un planeta"],
+      "correctOptionIndex": 0,
+      "difficulty": "MEDIUM",
+      "hint": "Representa ciudades, ríos y bosques sin contenerlos de verdad."
+    },
+    {
+      "id": "medium-04",
+      "question": "¿Cuál es el animal que siempre llega al final?",
+      "options": ["El delfín", "La tortuga", "El caracol", "La hormiga"],
+      "correctOptionIndex": 0,
+      "difficulty": "MEDIUM",
+      "hint": "Su nombre empieza con la letra D y vive en el mar."
+    },
+    {
+      "id": "medium-05",
+      "question": "¿Qué pesa más: un kilo de plumas o un kilo de hierro?",
+      "options": ["Las plumas", "El hierro", "Pesan igual", "Depende del lugar"],
+      "correctOptionIndex": 2,
+      "difficulty": "MEDIUM",
+      "hint": "No importa el material: ambos pesan exactamente lo mismo."
+    },
+    {
+      "id": "hard-01",
+      "question": "Un hombre vive en el piso 10. Cada mañana baja en ascensor, pero al volver solo sube hasta el piso 7 y camina el resto. ¿Por qué?",
+      "options": ["Le gusta caminar", "Es bajito y no alcanza el botón del 10", "El ascensor está roto", "Tiene miedo a las alturas"],
+      "correctOptionIndex": 1,
+      "difficulty": "HARD",
+      "hint": "Piensa en su altura: no alcanza el botón del piso 10."
+    },
+    {
+      "id": "hard-02",
+      "question": "¿Qué es lo que te pertenece pero los demás lo usan más que tú?",
+      "options": ["Tu nombre", "Tu casa", "Tu ropa", "Tu tiempo"],
+      "correctOptionIndex": 0,
+      "difficulty": "HARD",
+      "hint": "Se dice cuando alguien se dirige a ti para llamarte."
+    },
+    {
+      "id": "hard-03",
+      "question": "Un caracol sube un pozo de 10 metros: de día sube 3 y de noche resbala 2. ¿En cuántos días sale del pozo?",
+      "options": ["8 días", "10 días", "7 días", "9 días"],
+      "correctOptionIndex": 0,
+      "difficulty": "HARD",
+      "hint": "Calcula el avance neto por día (3 − 2) y recuerda que el último día sube 3 sin resbalar."
+    },
+    {
+      "id": "hard-04",
+      "question": "Dos padres y dos hijos van a pescar y pescan 3 peces, uno cada uno. ¿Cómo es posible?",
+      "options": ["Uno no pescó nada", "Son abuelo, padre e hijo", "Los peces eran muy pequeños", "Es una adivinanza imposible"],
+      "correctOptionIndex": 1,
+      "difficulty": "HARD",
+      "hint": "Hay tres personas: el abuelo, el padre y el hijo; el padre cumple dos roles."
+    },
+    {
+      "id": "hard-05",
+      "question": "¿Qué número sigue en la secuencia: 2, 3, 5, 7, 11, ...?",
+      "options": ["12", "13", "14", "15"],
+      "correctOptionIndex": 1,
+      "difficulty": "HARD",
+      "hint": "Fíjate que todos los números de la lista solo se dividen entre 1 y ellos mismos."
+    }
+  ]
+}
